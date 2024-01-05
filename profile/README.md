@@ -2,7 +2,7 @@
 
 ### Welcome to GOTOBLE ~
 
-- **gotoble** means 'go to ble', We hope our projects can help people go to ble and enjoy ble ~
+- **gotoble** means 'go to ble', We hope our projects can help people go to ble , enjoy ble and build more creative ble products ~
 
 ### Simple introduction to projects:
 
