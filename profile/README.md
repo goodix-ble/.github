@@ -1,8 +1,9 @@
 ## Hi guys 👋
 
-### Welcome to GOTOBLE ~
+### Welcome to Goodix BLE ~
 
-- **gotoble** means 'go to ble', We hope our projects can help people go to ble , enjoy ble and build more creative ble products ~
+- We provide open-source and creative ble projects here
+- We hope our projects can help engineers study ble, enjoy ble and build more creative ble products ~
 
 ### Simple introduction to projects:
 
