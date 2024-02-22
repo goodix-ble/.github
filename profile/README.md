@@ -7,7 +7,8 @@
 
 ### Simple introduction to projects:
 
-- [GR5526-Smart-Watch](https://github.com/gotoble/GR5526-Smart-Watch) : A Cool Ref-Design for Iot Smart Watch product based on GR5526 SoC (built-in 2.5D Embedded GPU) & Lvgl GUI Framework  
+- [GR5526-Smart-Watch](https://github.com/gotoble/GR5526-Smart-Watch) : An awesome Ref-Design for Iot Smart Watch product based on GR5526 SoC (built-in 2.5D Embedded GPU) & Lvgl GUI Framework
+- [GR5525-Smart-Watch](https://github.com/gotoble/GR5525-Smart-Watch) : An awesome Ref-Design for Iot Smart Watch product based on GR5525 SoC & Lvgl GUI Framework
 - [GR533x-RT-Thread](https://github.com/gotoble/GR533x-RT-Thread) : An ecosystem project that porting RT-Thread on GR533x SoC, Users can use GR533x to develop iot products quickly based on RT-Thread. 
 - [GR551x-MicroPython](https://github.com/gotoble/GR551x-MicroPython) : An Interest project that porting micropython on GR551x BLE SoC, and running BLE App through Micropython
 
