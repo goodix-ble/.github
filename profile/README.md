@@ -18,13 +18,13 @@
 
 #### 1.2 Reference Designs & Demos :
 
-- [GR5526-Smart-Watch](https://github.com/gotoble/GR5526-Smart-Watch) : An awesome Ref-Design for Iot Smart Watch based on GR5526 SoC (built-in 2.5D Embedded GPU)
-- [GR5525-Smart-Watch](https://github.com/gotoble/GR5525-Smart-Watch) : An awesome Ref-Demo for Iot Smart Watch based on GR5525
+- [GR5526-Smart-Watch](https://github.com/goodix-ble/GR5526-Smart-Watch) : An awesome Ref-Design for Iot Smart Watch based on GR5526 SoC (built-in 2.5D Embedded GPU)
+- [GR5525-Smart-Watch](https://github.com/goodix-ble/GR5525-Smart-Watch) : An awesome Ref-Demo for Iot Smart Watch based on GR5525
 
 #### 1.3 Ecosystem Adaptation :
 
-- [GR533x-RT-Thread](https://github.com/gotoble/GR533x-RT-Thread) : GR533x SDK that porting RT-Thread, Users can use to develop iot products quickly based on RT-Thread. 
-- [GR551x-MicroPython](https://github.com/gotoble/GR551x-MicroPython) : An Interest project that porting micropython on GR551x BLE SoC, and running BLE App through Micropython
+- [GR533x-RT-Thread](https://github.com/goodix-ble/GR533x-RT-Thread) : GR533x SDK that porting RT-Thread, Users can use to develop iot products quickly based on RT-Thread. 
+- [GR551x-MicroPython](https://github.com/goodix-ble/GR551x-MicroPython) : An Interest project that porting micropython on GR551x BLE SoC, and running BLE App through Micropython
 
 
 #### 1.4 Assistant & Utils :
