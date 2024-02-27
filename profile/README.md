@@ -27,7 +27,10 @@
 - [GR551x-MicroPython](https://github.com/gotoble/GR551x-MicroPython) : An Interest project that porting micropython on GR551x BLE SoC, and running BLE App through Micropython
 
 
+#### 1.4 Assistant & Utils :
 
+- [GoodixBleDFU.Android](https://github.com/goodix-ble/GoodixBleDFU.Android) : BLE DFU SDK for Android, Supporting full series of Goodix BLE SoC.
+- [GoodixBleDFU.iOS](https://github.com/goodix-ble/GoodixBleDFU.iOS) : BLE DFU SDK for iOS, Supporting full series of Goodix BLE SoC.
 
 
 
