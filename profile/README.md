@@ -5,12 +5,29 @@
 - We provide open-source and creative ble projects here
 - We hope our projects can help engineers study ble, enjoy ble and build more creative ble products ~
 
-### Simple introduction to projects:
+### 1.Index to repos
 
-- [GR5526-Smart-Watch](https://github.com/gotoble/GR5526-Smart-Watch) : An awesome Ref-Design for Iot Smart Watch product based on GR5526 SoC (built-in 2.5D Embedded GPU) & Lvgl GUI Framework
-- [GR5525-Smart-Watch](https://github.com/gotoble/GR5525-Smart-Watch) : An awesome Ref-Design for Iot Smart Watch product based on GR5525 SoC & Lvgl GUI Framework
-- [GR533x-RT-Thread](https://github.com/gotoble/GR533x-RT-Thread) : An ecosystem project that porting RT-Thread on GR533x SoC, Users can use GR533x to develop iot products quickly based on RT-Thread. 
+#### 1.1 SDK list for Goodix BLE SoC :
+
+- [GR5526.SDK](https://github.com/goodix-ble/GR5526.SDK) : Software Development Package for GR5526 SOC series.
+- [GR5525.SDK](https://github.com/goodix-ble/GR5525.SDK) : Software Development Package for GR5525 SOC series.
+- [GR551x.SDK](https://github.com/goodix-ble/GR551x.SDK) : Software Development Package for GR551x SOC series.
+- [GR533x.SDK](https://github.com/goodix-ble/GR533x.SDK) : Software Development Package for GR533x SOC series.
+
+    > SDK is synchronized with official web, recommended to download the latest version!
+
+#### 1.2 Reference Designs & Demos :
+
+- [GR5526-Smart-Watch](https://github.com/gotoble/GR5526-Smart-Watch) : An awesome Ref-Design for Iot Smart Watch based on GR5526 SoC (built-in 2.5D Embedded GPU)
+- [GR5525-Smart-Watch](https://github.com/gotoble/GR5525-Smart-Watch) : An awesome Ref-Demo for Iot Smart Watch based on GR5525
+
+#### 1.3 Ecosystem Adaptation :
+
+- [GR533x-RT-Thread](https://github.com/gotoble/GR533x-RT-Thread) : GR533x SDK that porting RT-Thread, Users can use to develop iot products quickly based on RT-Thread. 
 - [GR551x-MicroPython](https://github.com/gotoble/GR551x-MicroPython) : An Interest project that porting micropython on GR551x BLE SoC, and running BLE App through Micropython
+
+
+
 
 
 
