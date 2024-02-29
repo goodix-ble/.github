@@ -1,13 +1,13 @@
-## Hi guys 👋
+# Hi guys 👋
 
-### Welcome to Goodix BLE ~
+## Welcome to Goodix BLE ~
 
 - We provide open-source and creative ble projects here
 - We hope our projects can help engineers study ble, enjoy ble and build more creative ble products ~
 
-### 1.Index to repos
+## 1.Index to repos
 
-#### 1.1 SDK :
+### 1.1 SDK :
 
 #### 1.1.1 Repo List :
 
@@ -34,18 +34,18 @@
 
 
 
-#### 1.2 Reference Designs & Demos :
+### 1.2 Reference Designs & Demos :
 
 - [GR5526-Smart-Watch](https://github.com/goodix-ble/GR5526-Smart-Watch) : An awesome Ref-Design for Iot Smart Watch based on GR5526 SoC (built-in 2.5D Embedded GPU)
 - [GR5525-Smart-Watch](https://github.com/goodix-ble/GR5525-Smart-Watch) : An awesome Ref-Demo for Iot Smart Watch based on GR5525
 
-#### 1.3 Ecosystem Adaptation :
+### 1.3 Ecosystem Adaptation :
 
 - [GR533x-RT-Thread](https://github.com/goodix-ble/GR533x-RT-Thread) : GR533x SDK that porting RT-Thread, Users can use to develop iot products quickly based on RT-Thread. 
 - [GR551x-MicroPython](https://github.com/goodix-ble/GR551x-MicroPython) : An Interest project that porting micropython on GR551x BLE SoC, and running BLE App through Micropython
 
 
-#### 1.4 Assistant & Utils :
+### 1.4 Assistant & Utils :
 
 - [GoodixBleDFU.Android](https://github.com/goodix-ble/GoodixBleDFU.Android) : BLE DFU SDK for Android, Supporting full series of Goodix BLE SoC.
 - [GoodixBleDFU.iOS](https://github.com/goodix-ble/GoodixBleDFU.iOS) : BLE DFU SDK for iOS, Supporting full series of Goodix BLE SoC.
