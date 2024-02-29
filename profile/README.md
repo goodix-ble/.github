@@ -7,14 +7,32 @@
 
 ### 1.Index to repos
 
-#### 1.1 SDK list for Goodix BLE SoC :
+#### 1.1 SDK :
+
+#### 1.1.1 Repo List :
 
 - [GR5526.SDK](https://github.com/goodix-ble/GR5526.SDK) : Software Development Package for GR5526 SOC series.
+
 - [GR5525.SDK](https://github.com/goodix-ble/GR5525.SDK) : Software Development Package for GR5525 SOC series.
+
 - [GR551x.SDK](https://github.com/goodix-ble/GR551x.SDK) : Software Development Package for GR551x SOC series.
+
 - [GR533x.SDK](https://github.com/goodix-ble/GR533x.SDK) : Software Development Package for GR533x SOC series.
 
     > SDK is synchronized with official web, recommended to download the latest version!
+
+#### 1.1.2 Start Guide
+
+​	We use following diagram to iterate the SDK
+
+​	![](./image/sdk_evolution.png)
+
+- When official SDK is released, Committing a TAG (format named like v1.0.1), and Making a release at the same time
+- Every Commit responds to an issue fixed or feature added. To important commit , we may add a TAG to mark. TAG format is like v1.0.1_patch_xx. 
+- Next SDK will fully override last SDK.    
+- If you want to use a special version, please using TAG to identify.
+
+
 
 #### 1.2 Reference Designs & Demos :
 
