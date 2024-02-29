@@ -19,13 +19,13 @@
 
 - [GR533x.SDK](https://github.com/goodix-ble/GR533x.SDK) : Software Development Package for GR533x SOC series.
 
-    > SDK is synchronized with official web, recommended to download the latest version!
+    
 
 #### 1.1.2 Start Guide
 
 ​	We use following diagram to iterate the SDK
 
-​	![](./image/sdk_evolution.png)
+​	![](https://github.com/goodix-ble/.github/blob/master/profile/image/sdk_evolution.png)
 
 - When official SDK is released, Committing a TAG (format named like v1.0.1), and Making a release at the same time
 - Every Commit responds to an issue fixed or feature added. To important commit , we may add a TAG to mark. TAG format is like v1.0.1_patch_xx. 
