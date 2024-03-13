@@ -50,7 +50,9 @@
 - [GoodixBleDFU.Android](https://github.com/goodix-ble/GoodixBleDFU.Android) : BLE DFU SDK for Android, Supporting full series of Goodix BLE SoC.
 - [GoodixBleDFU.iOS](https://github.com/goodix-ble/GoodixBleDFU.iOS) : BLE DFU SDK for iOS, Supporting full series of Goodix BLE SoC.
 
+### 1.5 Creative Demo
 
+- [BLE.HID.Ref.DouYin](https://github.com/goodix-ble/BLE.HID.Ref.DouYin) : An interesting reference demo shows using GR533x.SK to play with douyin app. implemented basing on BLE HID Profile
 
 <!--
 
