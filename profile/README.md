@@ -49,6 +49,7 @@
 
 - [GoodixBleDFU.Android](https://github.com/goodix-ble/GoodixBleDFU.Android) : BLE DFU SDK for Android, Supporting full series of Goodix BLE SoC.
 - [GoodixBleDFU.iOS](https://github.com/goodix-ble/GoodixBleDFU.iOS) : BLE DFU SDK for iOS, Supporting full series of Goodix BLE SoC.
+- [GR5526-Lvgl-Simulator](https://github.com/goodix-ble/GR5526-Lvgl-Simulator) : Lvgl Simulator for GR5526 SoC, supporting Win & Linux System
 
 ### 1.5 Creative Demo
 
